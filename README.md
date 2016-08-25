@@ -1,30 +1,15 @@
 
-<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-
 
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <link rel="stylesheet" href="index.css">
-<link script src="script.js"> 
 </script>
+      <div class="jumbotron">
+        <b></b><h1><font size="90"><u>Where are the richest boroughs in London?</u></font></h1></b>
+        <p class="lead">
+			<font size="20"> The referendum on whether the UK should leave the EU has been labelled a "Once in a generation choice” by the Prime Minister. The aim of this website is to provide our readership with unbiased information on which to base a decision on how to vote.<p></p> 
+Here you will find facts rather than inflammatory information intended to cause panic. No more scare mongering threats such as if we leave the world will go into recession or if we stay we will lose all independence and just merely a cog in the United States of Europe. The UK citizen has the weight of an important decision on its shoulders and whilst we will be unable to vote for you, we can at least give you an indication of how other people are likely to vote. 
+ </font></p>
 
+ </div>
 
-  <a href="INSERT BOX HERE">
-  <img src="http://www.heraldscotland.com/resources/images/4395268/" alt="Nicola Sturgeon" style="width:662px;height:400px;border:0;">
-</a>
-
- <a href="INSERT BOX HERE">
-  <img src="http://i2.dailyrecord.co.uk/incoming/article2235079.ece/ALTERNATES/s1200/Kezia-Dugdale.jpg" alt="Kezia Dugdale" style="width:662px;height:400px;border:0;">
-</a> 
-<a href="INSERT BOX HERE">
-  <img src="http://www.thetimes.co.uk/tto/multimedia/archive/00825/86257908-8968-11e4-_825495c.jpg" alt="Willie Rennie" style="width:662px;height:400px;border:0;" >
-</a> 
-<a href="INSERT BOX HERE">
-  <img src="https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/10/5/1412523972915/Willie-Rennie-014.jpg" alt="Willie Rennie" style="width:662px;height:400px;border:0;" >
-</a> 
-<a href="INSERT BOX HERE">
-  <img src="http://files.stv.tv/imagebase/106/650x366/106763-patrick-harvie-greens-would-work-with-other-parties.jpg" alt="Patrick Harvie" style="width:662px;height:400px;border:0;" >
-</a> 
-<a href="INSERT BOX HERE">
-  <img src="http://i3.dailyrecord.co.uk/incoming/article3609924.ece/ALTERNATES/s615/David-Coburn.jpg" alt="Patrick Harvie" style="width:662px;height:400px;border:0;" >
-</a> 

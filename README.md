@@ -10,7 +10,7 @@
 		
 </script>
       <div class="jumbotron">
-        <b></b><h1><font size="90"><u>Where are the richest boroughs in London?</u></font></h1></b>
+        <b></b><h1><font size="90"><font color="red".<u>Do you know how many people live in poverty in your borough?</u></font></h1></b>
         <p class="lead">
 			<font size="20"> London is a gigantic city of more than 7 million souls. There are a countless jobs going and a million and one places hiring - but how well do you know your city? Do you know how many people live under the poverty line in any borough?<p></p> 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."

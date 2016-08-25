@@ -1,12 +1,12 @@
 
 
-<!-- Latest compiled and minified CSS -->
+
+<html lang="en">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<script src="d3.js" charset="utf-8"></script>
 		<link rel="java' type="text/js" href="script.js">
-		<script src="bootstrap-wysiwyg.js"></script>
-		
+	
 		
 </script>
       <div class="jumbotron">
@@ -16,6 +16,20 @@
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
  </font></p>
  </div>
+ 	<script src="bootstrap-wysiwyg.js"></script>
+	
+<div class="media">
+  <div class="media-left">
+    <a href="#">
+      <img class="media-object" src="http://giphy.com/gifs/IEddIh4pCEam4/html5" alt="...">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Contribution of the last mayor...</h4>
+    ...
+  </div>
+</div>
+ 
 <ul id='menu'>
    <li><a href='#'>London Boroughs</a>
      <ul>

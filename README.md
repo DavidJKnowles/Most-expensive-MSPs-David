@@ -18,17 +18,24 @@
  </div>
  	<script src="bootstrap-wysiwyg.js"></script>
 	
-<div class="media">
-  <div class="media-left">
-    <a href="#">
-      <img class="media-object" src="http://giphy.com/gifs/IEddIh4pCEam4/html5" alt="...">
-    </a>
-  </div>
-  <div class="media-body">
-    <h4 class="media-heading">Contribution of the last mayor...</h4>
-    ...
-  </div>
-</div>
+<div class="row">
+  <div class="col-lg-6">
+    <div class="input-group">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button">Go!</button>
+      </span>
+      <input type="text" class="form-control" placeholder="Search for...">
+    </div><!-- /input-group -->
+  </div><!-- /.col-lg-6 -->
+  <div class="col-lg-6">
+    <div class="input-group">
+      <input type="text" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+  </div><!-- /.col-lg-6 -->
+</div><!-- /.row -->
  
 <ul id='menu'>
    <li><a href='#'>London Boroughs</a>
